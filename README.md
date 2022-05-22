@@ -28,3 +28,14 @@ Step 3 — installing php
 Step 4 — creating a virtual host for your website using apache
 
 Step 5 — enable php on the website
+
+Create a Linux base GCP Instance
+(I'm using a RHEL8 image)
+
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/84424434/169677204-bba829a1-5acd-4296-ad70-c631c6d2db41.png">
+
+On the Command Line
+
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/84424434/169677335-dfca2d8c-c6d6-4bc5-9031-1775ac2a17a9.png">
+
+sudo yum install apache2 -y
