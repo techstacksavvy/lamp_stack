@@ -1,6 +1,6 @@
 ![CREATE A LAMP STACK](https://user-images.githubusercontent.com/84424434/169676451-3ead7bf2-c235-4da6-a383-686d7963eeea.png)
 
-LAMP Stack
+WEB STACK IMPLEMENTATION (LAMP STACK) IN GCP
 
 What is a LAMP stack?
 
@@ -17,4 +17,14 @@ P - PHP(a general purpose scripting language)
 
 Read more on LAMP here https://www.ibm.com/cloud/learn/lamp-stack-explained
 
+Here are the steps:
 
+Step 1 — installing apache and updating the firewall
+
+Step 2 — installing mysql
+
+Step 3 — installing php
+
+Step 4 — creating a virtual host for your website using apache
+
+Step 5 — enable php on the website
